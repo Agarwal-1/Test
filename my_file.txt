@@ -1,1 +1,4 @@
  Yada Yada
+Hooray kk >> my_file.txt
+cat my_file.txt
+echo Hooray
